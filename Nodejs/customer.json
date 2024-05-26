@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abigail",
+        "age": 23,
+        "salary": 20000,
+        "phno": 8877669988
+    },
+    {
+        "name": "Sks",
+        "age": 24,
+        "salary": 21000,
+        "phno": 9975623512
+    },
+    {
+        "name": "AKM",
+        "age": 25,
+        "salary": 22000,
+        "phno": 8877669984
+    },
+    {
+        "name": "SLR",
+        "age": 26,
+        "salary": 24000,
+        "phno": 8877669956
+    }
+]
